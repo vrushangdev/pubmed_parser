@@ -1,0 +1,2929 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30551146</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-994X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nicotine &amp; tobacco research : official journal of the Society for Research on Nicotine and Tobacco</Title>
+                <ISOAbbreviation>Nicotine Tob. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Acute Impact of Hatha Yoga on Craving among Smokers Attempting to Reduce or Quit.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ntr/nty263</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Despite negative effects of smoking, smokers have difficulty quitting, suggesting a need for additional strategies to help them quit. A single-session hatha yoga intervention acutely reduced craving among nicotine-deprived smokers not attempting to reduce or quit, yet it is unknown if it reduces craving among those attempting to change their smoking. Thus, the current study tested the efficacy of a single-session hatha yoga intervention for acutely reducing craving among smokers attempting to reduce or quit smoking.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Data presented are part of a larger dissertation project. Participants were 55 community-recruited smokers (62% male) motivated to reduce or quit smoking randomized to one session of hatha yoga (n = 25) or wellness control (i.e., reading educational materials about healthy lifestyle; n = 30) on their intervention day (i.e., the day on which they began to reduce or quit smoking). Participants rated, &quot;I have a desire for a cigarette right now&quot;, on a 7-point Likert scale 1 immediately before and after the intervention.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">After statistically controlling for CO in breath, participant type, age, gender, race, and ethnicity, a significant Time x Condition interaction was found, F(1, 47) = 4.72, p = .035, ηp2 = .09, suggesting craving decreased at a greater rate in the hatha yoga condition relative to the wellness condition.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Results from the current study add to a growing body of research demonstrating the potential clinical utility of hatha yoga as an adjunctive intervention tool for smoking cessation.</AbstractText>
+                <AbstractText Label="Implications " NlmCategory="UNASSIGNED">his is the first known study to test the impact of a single-session hatha yoga intervention on craving among adult smokers attempting to reduce or quit smoking. We found that 30 minutes of hatha yoga produced a greater reduction in craving compared to a 30-minute wellness control condition. This relationship was evident even after statistically accounting for other important variables (e.g., gender). Results of this study add to a growing body of literature demonstrating the potential clinical utility of hatha yoga as an adjunctive intervention strategy for smoking cessation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jeffries</LastName>
+                    <ForeName>Emily R</ForeName>
+                    <Initials>ER</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Louisiana State University, Baton Rouge, LA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Mental Health Service Line, Edward Hines Jr. VA Hospital, Hines, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zvolensky</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Houston, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Behavioral Science, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buckner</LastName>
+                    <ForeName>Julia D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Louisiana State University, Baton Rouge, LA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nicotine Tob Res</MedlineTA>
+            <NlmUniqueID>9815751</NlmUniqueID>
+            <ISSNLinking>1462-2203</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30551146</ArticleId>
+            <ArticleId IdType="pii">5247010</ArticleId>
+            <ArticleId IdType="doi">10.1093/ntr/nty263</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">30550321</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1939-1315</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>115</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of personality and social psychology</Title>
+                <ISOAbbreviation>J Pers Soc Psychol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>How mindfulness training promotes positive emotions: Dismantling acceptance skills training in two randomized controlled trials.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>944-973</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1037/pspa0000134</ELocationID>
+            <Abstract>
+                <AbstractText>Mindfulness meditation interventions-which train skills in monitoring present-moment experiences with a lens of acceptance-have shown promise for increasing positive emotions. Using a theory-based approach, we hypothesized that learning acceptance skills in mindfulness interventions helps people notice more positive experiences in daily life, and tested whether removing acceptance training from mindfulness interventions would eliminate intervention-related boosts in positive affect. In 2 randomized controlled trials (RCTs) of stressed community adults, mindfulness skills were dismantled into 2 structurally equivalent interventions: (a) training in both monitoring and acceptance (Monitor + Accept) and (b) training in monitoring only (Monitor Only) without acceptance training. Study 1 tested 8-week group-based Monitor + Accept and Monitor Only interventions compared with a no treatment control group. Study 2 tested 2-week smartphone-based Monitor + Accept and Monitor Only interventions compared with an active control training. In both studies, end-of-day and momentary positive affect and negative affect were measured in daily life for 3 days pre- and post-intervention using ambulatory assessments. As predicted, across 2 RCTs, Monitor + Accept training increased positive affect compared with both Monitor Only and control groups. In Study 1, this effect was observed in end-of-day positive affect. In Study 2, this effect was found in both end-of-day and momentary positive affect outcomes. In contrast, all active interventions in Studies 1 and 2 decreased negative affect. These studies provide the first experimental evidence that developing an orientation of acceptance toward present-moment experiences is a central mechanism of mindfulness interventions for boosting positive emotions in daily life. (PsycINFO Database Record (c) 2018 APA, all rights reserved).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lindsay</LastName>
+                    <ForeName>Emily K</ForeName>
+                    <Initials>EK</Initials>
+                    <Identifier Source="ORCID">0000-0002-5314-9517</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Pittsburgh.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chin</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Carnegie Mellon University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Greco</LastName>
+                    <ForeName>Carol M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of Pittsburgh.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Young</LastName>
+                    <ForeName>Shinzen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of Vermont.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Kirk W</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Virginia Commonwealth University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wright</LastName>
+                    <ForeName>Aidan G C</ForeName>
+                    <Initials>AGC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Pittsburgh.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smyth</LastName>
+                    <ForeName>Joshua M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biobehavioral Health, Pennsylvania State University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burkett</LastName>
+                    <ForeName>Deanna</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Integrative Medicine, University of Pittsburgh Medical Center.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Creswell</LastName>
+                    <ForeName>J David</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, Carnegie Mellon University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT02502227</AccessionNumber>
+                        <AccessionNumber>NCT02433431</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>National Institutes of Health; National Center for Complementary &amp; Integrative Health</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>Yoga Science Foundation</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>Mind &amp; Life Institute</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>American Psychological Association</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>National Institutes of Health</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Pers Soc Psychol</MedlineTA>
+            <NlmUniqueID>0014171</NlmUniqueID>
+            <ISSNLinking>0022-3514</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30550321</ArticleId>
+            <ArticleId IdType="pii">2018-63189-003</ArticleId>
+            <ArticleId IdType="doi">10.1037/pspa0000134</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30546229</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0975-5950</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>9</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Jul-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>National journal of maxillofacial surgery</Title>
+                <ISOAbbreviation>Natl J Maxillofac Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Management of myofascial pain dysfunction syndrome with meditation and yoga: Healing through natural therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>155-159</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/njms.NJMS_25_17</ELocationID>
+            <Abstract>
+                <AbstractText Label="Aims and Objectives" NlmCategory="UNASSIGNED">Aims and objectives of the study were to study the effectiveness of Raj-yoga meditation and pranayama in patients with myofascial pain dysfunction syndrome (MPDS) and compared the effects with ongoing conventional noninvasive treatment modalities.</AbstractText>
+                <AbstractText Label="Materials and Methods" NlmCategory="UNASSIGNED">The study comprised 30 patients divided equally (10 each) into 3 group, i.e., control group (conventional, noninvasive treatment), Experimental A group (conventional, noninvasive treatment with raj-yoga meditation therapy and pranayama), and Experimental B group (Raj-yoga meditation therapy and pranayama only). Parameters such as pain, mouth opening, mandibular deviation, inflammation, swelling, clicking, occlusion, and psychologic evaluation such as anxiety, stress, and depression were assessed before the start of the study and at weekly intervals for 3 months.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Posttreatment pain and inflammation improved both in the control group and Experimental A group, but statistically it is highly significant in the Experimental A group. Furthermore, it is effective immediately as well as for a long period in Experimental A group. Improvement in mouth opening was statistically highly significant in control group but not in the experimental groups. Posttreatment anxiety and stress status was improved with statistically highly significant result in the Experimental A and B. The posttreatment depression status along with mandibular deviation, swelling, clicking, and occlusion has not improved significantly in any of the groups.</AbstractText>
+                <AbstractText Label="Interpretation and Conclusion" NlmCategory="UNASSIGNED">Raj-yoga meditation and pranayama in combination with conventional, noninvasive, treatment modalities showed promising results in MPDS patients as compared to either modalities alone.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Abdul Ahad</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral and Maxillofacial Surgery, King Khalid University, College of Dentistry, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Srivastava</LastName>
+                    <ForeName>Anchal</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral Pathology, Government Medical College, Aurangabad, Maharashtra, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Passi</LastName>
+                    <ForeName>Deepak</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral and Maxillofacial Surgery, ESIC Dental College and Hospital, Rohini, Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Devi</LastName>
+                    <ForeName>Manisha</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral and Maxillofacial Surgery, ESIC Dental College and Hospital, Rohini, Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chandra</LastName>
+                    <ForeName>Lokesh</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral and Maxillofacial Surgery, ESIC Dental College and Hospital, Rohini, Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Atri</LastName>
+                    <ForeName>Mansi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health Dentistry, ESIC Dental College and Hospital, Rohini, Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Natl J Maxillofac Surg</MedlineTA>
+            <NlmUniqueID>101578767</NlmUniqueID>
+            <ISSNLinking>0975-5950</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Myofascial pain dysfunction syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Raj-yoga meditation</Keyword>
+            <Keyword MajorTopicYN="N">pranayama: Noninvasive therapy</Keyword>
+            <Keyword MajorTopicYN="N">transcutaneous electric nerve stimulation</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30546229</ArticleId>
+            <ArticleId IdType="doi">10.4103/njms.NJMS_25_17</ArticleId>
+            <ArticleId IdType="pii">NJMS-9-155</ArticleId>
+            <ArticleId IdType="pmc">PMC6251288</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30544873</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1660-4601</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of environmental research and public health</Title>
+                <ISOAbbreviation>Int J Environ Res Public Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Effects of Mind-Body Exercise on Cognitive Performance in Elderly: A Systematic Review and Meta-Analysis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E2791</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijerph15122791</ELocationID>
+            <Abstract>
+                <AbstractText><i>Background</i>: As the situation of cognitive aging is getting worse, preventing or treating cognitive decline through effective strategies is highly important. This systematic review aims to investigate whether mind-body exercise is an effective approach for treating cognition decline. <i>Methods</i>: Searches for the potential studies were performed on the eight electronic databases (MEDLINE, Scopus, Web of Science, SPORTDiscus, CINAHL, PsycArtilces, CNKI, and Wanfang). Randomized controlled trials (RCTs) examining the effect of mind-body exercise on cognitive performance in older adults were included. Data were extracted and effect sizes were pooled with 95% confidence intervals (95% CI) using random-effects models. The Physiotherapy Evidence Database Scale was employed to examine the study quality. <i>Results</i>: Nineteen RCTs including 2539 elders (67.3% female) with fair to good study quality were identified. Mind-body exercise, relative to control intervention, showed significant benefits on cognitive performance, global cognition (<i>Hedges'g</i> = 0.23), executive functions (<i>Hedges'g</i> = 0.25 to 0.65), learning and memory (<i>Hedges'g</i> = 0.37 to 0.49), and language (<i>Hedges'g</i> = 0.35). In addition, no significant adverse events were reported. <i>Conclusion</i>: Mind-body exercise may be a safe and effective intervention for enhancing cognitive function among people aged 60 years or older. Further research evidence is still needed to make a more conclusive statement.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yanjie</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">0000-0002-7964-2326</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Health and Exercise Science Laboratory, Institute of Sports Science, Seoul National University, Seoul 08826, Korea. elite_zhangyj@163.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Education Unit, School of Humanities and Social Science, the Chinese University of Hong Kong, Shenzhen 518172, China. elite_zhangyj@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chunxiao</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">0000-0002-9959-5029</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Physical Education and Sports Science Academic Group, National Institute of Education, Nanyang Technological University, Singapore 637551, Singapore. cxlilee@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zou</LastName>
+                    <ForeName>Liye</ForeName>
+                    <Initials>L</Initials>
+                    <Identifier Source="ORCID">0000-0002-5191-0472</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Sports Science and Physical Education, The Chinese University of Hong Kong, Hong Kong 999077, China. liyezou123@cuhk.edu.hk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Xiaolei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Martial Arts and Traditional Sports, Beijing Sports University, Beijing 100084, China. liuxiaolei99@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Wook</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health and Exercise Science Laboratory, Institute of Sports Science, Seoul National University, Seoul 08826, Korea. songw3@snu.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute on Aging, Seoul National University, Seoul 08826, Korea. songw3@snu.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Environ Res Public Health</MedlineTA>
+            <NlmUniqueID>101238455</NlmUniqueID>
+            <ISSNLinking>1660-4601</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Qigong</Keyword>
+            <Keyword MajorTopicYN="N">Tai Chi</Keyword>
+            <Keyword MajorTopicYN="N">Yoga</Keyword>
+            <Keyword MajorTopicYN="N">cognition</Keyword>
+            <Keyword MajorTopicYN="N">older</Keyword>
+            <Keyword MajorTopicYN="N">research synthesis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30544873</ArticleId>
+            <ArticleId IdType="pii">ijerph15122791</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijerph15122791</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30543475</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1931-843X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of women's health (2002)</Title>
+                <ISOAbbreviation>J Womens Health (Larchmt)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Gender Differences in Prevalence, Patterns, Purposes, and Perceived Benefits of Meditation Practices in the United States.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/jwh.2018.7178</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Meditation is a common type of complementary and alternative medicine (CAM), and the evidence for its usefulness for health promotion is growing. Women have higher rates of overall CAM use than men do, but little is known about gender differences in meditation practices, reasons for use, or perceived benefits.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data from the 2012 National Health Interview Survey (NHIS) were used. The NHIS design is a multistage probability sample representative of US adults aged ≥18 (n = 34,342). Design-based F-test and logistic regression were used; all analyses were weighted and were performed in 2017-2018.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, 10.3% of women and 5.2% of men reported using some type of meditation in the past year (p &lt; 0.001). Among meditators, a higher percentage of women used meditation with yoga, tai chi, or qi gong, but men were more likely to use specific types of stand-alone practices (e.g., mindfulness) than women (p &lt; 0.001 for each type). The most common reason reported for using meditation was to reduce stress (35%). Although women and men reported similar reasons for meditating, there were gender differences in the prevalence of some reasons. Both men and women perceived meditation to be helpful (90% and 94%, respectively).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">There are gender differences in prevalence, purpose, and perceived benefits of using meditation. US adults aged ≥18 use meditation and find it helpful. Although currently less prevalent among men, providers can consider meditation as a tool for health promotion in both men and women.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Upchurch</LastName>
+                    <ForeName>Dawn M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Department of Community Health Sciences, UCLA Fielding School of Public Health , Los Angeles, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Pamela Jo</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>2 School of Public Health, University of Minnesota , Minneapolis, Minnesota.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Womens Health (Larchmt)</MedlineTA>
+            <NlmUniqueID>101159262</NlmUniqueID>
+            <ISSNLinking>1540-9996</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">complementary and alternative medicine</Keyword>
+            <Keyword MajorTopicYN="N">gender</Keyword>
+            <Keyword MajorTopicYN="N">meditation</Keyword>
+            <Keyword MajorTopicYN="N">mind–body</Keyword>
+            <Keyword MajorTopicYN="N">stress</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30543475</ArticleId>
+            <ArticleId IdType="doi">10.1089/jwh.2018.7178</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30541474</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2318</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC geriatrics</Title>
+                <ISOAbbreviation>BMC Geriatr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Yoga to prevent mobility limitations in older adults: feasibility of a randomized controlled trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>306</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12877-018-0988-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The loss of mobility during aging impacts independence and leads to further disability, morbidity, and reduced life expectancy. Our objective was to examine the feasibility and safety of conducting a randomized controlled trial of yoga for older adults at risk for mobility limitations.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Sedentary older adults (n = 46; age 60-89) were recruited and randomized to either yoga or a health education comparison group. Yoga sessions (60-min) occurred 2x weekly, and 90-min health education sessions occurred weekly, for 10 weeks. The primary outcomes were recruitment rate, intervention attendance, and retention at assessments. Adverse event rates and participant satisfaction were also measured. Physical performance measures of gait, balance, and strength and self-report outcome measures were administered at baseline and 10-weeks.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Recruitment lasted 6 months. Retention of participants at the 10-week follow-up was high (89% - performance measures; 98% - self-report questionnaires). Attendance was good with 82% of yoga and 74% of health education participants attending at least 50% of the sessions. No serious adverse events were reported. Patient satisfaction with the interventions was high. The mean effect size for the physical performance measures was 0.35 with some over 0.50. The mean effect size for self-report outcome measures was 0.36.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Results indicate that it is feasible to conduct a larger RCT of yoga for sedentary older adults at risk for mobility problems. The yoga and comparison interventions were safe, well accepted, and well attended. Effect sizes suggest yoga may have important benefits for this population and should be studied further.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">ClinicalTrials # NCT03544879 ; Retrospectively registered 4 June, 2018.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Groessl</LastName>
+                    <ForeName>Erik J</ForeName>
+                    <Initials>EJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6239-1965</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine and Public Health, University of California San Diego, 9500 Gilman Dr. #0994, La Jolla, CA, 92093, USA. egroessl@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>HSR&amp;D, VA San Diego Healthcare System, San Diego, CA, USA. egroessl@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>UCSD Stein Institute for Research on Aging, La Jolla, CA, USA. egroessl@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maiya</LastName>
+                    <ForeName>Meghan</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine and Public Health, University of California San Diego, 9500 Gilman Dr. #0994, La Jolla, CA, 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmalzl</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine and Public Health, University of California San Diego, 9500 Gilman Dr. #0994, La Jolla, CA, 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>College of Science and Integrative Health, Southern California University of Health Sciences, Whittier, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wing</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family Medicine and Public Health, University of California San Diego, 9500 Gilman Dr. #0994, La Jolla, CA, 92093, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>UCSD Exercise and Physical Activity Resource Center (EPARC), La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeste</LastName>
+                    <ForeName>Dilip V</ForeName>
+                    <Initials>DV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UCSD Stein Institute for Research on Aging, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of California San Diego, La Jolla, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT03544879</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>-</GrantID>
+                    <Agency>Sam and Rose Stein Institute for Research on Aging</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Geriatr</MedlineTA>
+            <NlmUniqueID>100968548</NlmUniqueID>
+            <ISSNLinking>1471-2318</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Feasibility</Keyword>
+            <Keyword MajorTopicYN="N">Mobility</Keyword>
+            <Keyword MajorTopicYN="N">Physical function</Keyword>
+            <Keyword MajorTopicYN="N">Yoga</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30541474</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12877-018-0988-8</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12877-018-0988-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30540575</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1531-7013</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in organ transplantation</Title>
+                <ISOAbbreviation>Curr Opin Organ Transplant</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Complementary and integrative medicine in kidney transplantation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/MOT.0000000000000601</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE OF REVIEW" NlmCategory="OBJECTIVE">Complementary and integrative medicine (CIM) use is widely prevalent in kidney transplant recipients but studies of efficacy or potential harm are sparse. This review examines prevalence of use of CIM and discusses potential beneficial and harmful aspects of CIM in renal transplant recipients.</AbstractText>
+                <AbstractText Label="RECENT FINDINGS" NlmCategory="RESULTS">The prevalence of CIM use in kidney transplant patients varies from 12 to 45%. There is a knowledge gap regarding CIM modalities among healthcare professionals that may contribute to reluctance to discuss CIM use with patients. Patients often do not spontaneously disclose its use, and those that use it may be more likely to be nonadherent to allopathic therapies. Herbal supplements may be nephrotoxic or interact with pharmaceutical agents, including calcineurin inhibitors. More data are needed to assess the potential benefits of other modalities of CIM, including yoga, Tai Chi or meditation, as these modalities have been beneficial for people with diabetes or hypertension, both of which are common in the posttransplant period.</AbstractText>
+                <AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">Despite a high prevalence of CIM use in kidney transplant recipients, data are limited regarding risks and benefits. Education of healthcare providers who care for kidney transplant recipients should be encouraged. Intervention studies should be designed to investigate the CIM modalities, including yoga, meditation and Tai Chi that have been shown to be beneficial in other chronic diseases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tafaj-Reddy</LastName>
+                    <ForeName>Olta</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, SUNY Downstate Medical Center, Brooklyn, New York, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brar</LastName>
+                    <ForeName>Amarpali</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Markell</LastName>
+                    <ForeName>Mariana S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Opin Organ Transplant</MedlineTA>
+            <NlmUniqueID>9717388</NlmUniqueID>
+            <ISSNLinking>1087-2418</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30540575</ArticleId>
+            <ArticleId IdType="doi">10.1097/MOT.0000000000000601</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30539120</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2367-1890</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sports medicine international open</Title>
+                <ISOAbbreviation>Sports Med Int Open</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Polar <sup>®</sup> OH1 Optical Heart Rate Sensor is Valid during Moderate-Vigorous Exercise.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E67-E70</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/a-0631-0920</ELocationID>
+            <Abstract>
+                <AbstractText Label="Purpose" NlmCategory="UNASSIGNED">Traditional heart-rate monitoring through the use of electrocardiograms or chest-worn heart rate sensors can be challenging in certain sports or in field settings. New technologies, such as photoplethysmography (PPG), have enabled heart-rate monitoring at alternate sites. However, to date, the accuracy and validity of various PPG sensors has not been examined in detail. The purpose of the present investigation was to determine the validity of an arm-worn PPG sensor during yoga sequences.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">Fifteen college-aged men and women participated in a ~45 min power vinyasa yoga class. During the class, participants wore Polar <sup>®</sup> H7 chest straps and RCX3 receivers (criterion) and Polar <sup>®</sup> OH1 arm bands on their upper right arm (practical). Mean differences were compared via a paired <i>t</i> -test, heart rate during yoga using a time*device repeated measures ANOVA, and agreement assessed with Bland-Altman analysis.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Mean heart rates during yoga were not different (mean difference=0.76, 95% CI: -0.54 to 2.06; <i>p</i> =0.229). Yoga created a main effect of time on heart rate ( <i>p</i> &lt;0.0001), but there was no difference between devices ( <i>p</i> =0.86) or interaction ( <i>p</i> =0.90). Mean bias±95% limits of agreement was 0.76±1.30 bpm, with a typical error of 2.42±1.49 bpm and a coefficient of variation of 1.8±1.5%.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">Results of the present investigation revealed that the Polar <sup>®</sup> OH1 is a valid measure of heart rate during moderate-vigorous exercise. Future validation studies should consider other exercise modes and participant characteristics.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schubert</LastName>
+                    <ForeName>Matthew M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>California State University San Marcos, Kinesiology, San Marcos, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>Amy</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CSU - San Marcos, Kinesiology, San Marcos, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De La Rosa</LastName>
+                    <ForeName>Annie B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>California State University San Marcos, Kinesiology, San Marcos, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Sports Med Int Open</MedlineTA>
+            <NlmUniqueID>101721695</NlmUniqueID>
+            <ISSNLinking>2367-1890</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Altern Ther Health Med. 2014 Jul-Aug;20(4):12-8</RefSource>
+                <PMID Version="1">25141359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Sci Sports Exerc. 2017 Aug;49(8):1697-1703</RefSource>
+                <PMID Version="1">28709155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Eng Technol. 2015;39(5):264-71</RefSource>
+                <PMID Version="1">26112379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IEEE Trans Biomed Eng. 2017 Sep;64(9):2016-2024</RefSource>
+                <PMID Version="1">28278454</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2016 May 27;11(5):e0154420</RefSource>
+                <PMID Version="1">27232714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Sports Sci Med. 2016 Aug 05;15(3):540-547</RefSource>
+                <PMID Version="1">27803634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Sci Sports Exerc. 2018 Mar;50(3):624-633</RefSource>
+                <PMID Version="1">29189666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Sports Med. 2017 Dec;38(14):1126-1131</RefSource>
+                <PMID Version="1">29258155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Sports Sci. 1998 Jan;16 Suppl:S3-7</RefSource>
+                <PMID Version="1">22587712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sports Med. 2003;33(7):517-38</RefSource>
+                <PMID Version="1">12762827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Sports Sci. 2018 Jul;36(13):1447-1452</RefSource>
+                <PMID Version="1">29090987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Sci Sports Exerc. 2016 Aug;48(8):1558-69</RefSource>
+                <PMID Version="1">27433961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ Open Sport Exerc Med. 2016 Apr 25;2(1):e000106</RefSource>
+                <PMID Version="1">27900173</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Agreement</Keyword>
+            <Keyword MajorTopicYN="N">Photoplethysmography</Keyword>
+            <Keyword MajorTopicYN="N">Validation</Keyword>
+            <Keyword MajorTopicYN="N">Yoga</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30539120</ArticleId>
+            <ArticleId IdType="doi">10.1055/a-0631-0920</ArticleId>
+            <ArticleId IdType="pii">smio12-2017-0066</ArticleId>
+            <ArticleId IdType="pmc">PMC6225963</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30538073</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-7214</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry</Title>
+                <ISOAbbreviation>Am J Geriatr Psychiatry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Yoga and Meditation Can Help Improve Cognitive Functioning in Older Adults With Mild Cognitive Impairment and Dementia.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1064-7481(18)30570-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jagp.2018.11.002</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lavretsky</LastName>
+                    <ForeName>Helen</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience and Human Behavior, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles. Electronic address: hlavrets@ucla.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016421">Editorial</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Am J Geriatr Psychiatry</MedlineTA>
+            <NlmUniqueID>9309609</NlmUniqueID>
+            <ISSNLinking>1064-7481</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30538073</ArticleId>
+            <ArticleId IdType="pii">S1064-7481(18)30570-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jagp.2018.11.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">30536243</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1938-3223</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>114</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jul</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Texas medicine</Title>
+                <ISOAbbreviation>Tex Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Remodeling Medicaid.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>16-21</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>House calls, yoga classes, and community networks are among the value-based innovations making Medicaid more patient-centered and more penny-wise.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Berlin</LastName>
+                    <ForeName>Joey</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Tex Med</MedlineTA>
+            <NlmUniqueID>0051012</NlmUniqueID>
+            <ISSNLinking>0040-4470</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30536243</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30532351</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0972-2327</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>21</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Oct-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of Indian Academy of Neurology</Title>
+                <ISOAbbreviation>Ann Indian Acad Neurol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of Physical Activity in Parkinson's Disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>242-249</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/aian.AIAN_169_18</ELocationID>
+            <Abstract>
+                <AbstractText>Parkinson's disease (PD) is common, age-dependent neurodegenerative disorder caused by a severe loss of the nigrostriatal dopaminergic neurons. Given the projected increase in the number of people with PD over the coming decades, interventions aimed at minimizing morbidity and improve quality of life are crucial. There is currently no fully proven pharmacological therapy that can modify or slow the disease progression. Physical activity (PA) can complement pharmacological therapy to manage the inherent decline associated with the disease. The evidence indicates that upregulation of neurotrophins and nerve growth factors are potentially critical mediators of the beneficial effects associated with PA. Accumulating evidence suggests that patients with PD might benefit from PA in a number of ways, from general improvements in health to disease-specific effects and potentially, disease-modifying effects. Various forms of PA that have shown beneficial effects in PD include - aerobic exercises, treadmill training, dancing, traditional Chinese exercise, yoga, and resistance training. In this review, we explored available research that addresses the impact of exercise and PA on PD. The original articles with randomized control trials, prospective cohort studies, longitudinal studies, meta-analysis, and relevant review articles from 2005 to 2017 were selected for the present review. Many gaps remain in our understanding of the most effective exercise intervention for PD symptoms, the mechanisms underlying exercise-induced changes and the best way to monitor response to therapy. However, available research suggests that exercise is a promising, cost-effective, and low-risk intervention to improve both motor and nonmotor symptoms in patients with PD. Thus, PA should be prescribed and encouraged in all PD patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bhalsing</LastName>
+                    <ForeName>Ketaki S</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, National Neuroscience Institute, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abbas</LastName>
+                    <ForeName>Masoom M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, National Neuroscience Institute, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Louis C S</ForeName>
+                    <Initials>LCS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, National Neuroscience Institute, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Ann Indian Acad Neurol</MedlineTA>
+            <NlmUniqueID>101273955</NlmUniqueID>
+            <ISSNLinking>0972-2327</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 2003 Apr;85(2):299-305</RefSource>
+                <PMID Version="1">12675906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Altern Ther Health Med. 2015 Jan-Feb;21(1):8-14</RefSource>
+                <PMID Version="1">25599428</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014 Jul 01;9(7):e100503</RefSource>
+                <PMID Version="1">24983753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain. 2015 Feb;138(Pt 2):269-75</RefSource>
+                <PMID Version="1">25410713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Neurol. 1992 Apr;49(4):360-5</RefSource>
+                <PMID Version="1">1558515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Aging Phys Act. 2011 Apr;19(2):87-98</RefSource>
+                <PMID Version="1">21558565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiother. 2013 Mar;59(1):7-13</RefSource>
+                <PMID Version="1">23419910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 2010 Jan 15;1310:200-7</RefSource>
+                <PMID Version="1">19900418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Ther. 2018 Jan;40(1):8-15</RefSource>
+                <PMID Version="1">29198450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2017 Jul 27;12(7):e0181515</RefSource>
+                <PMID Version="1">28749970</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parkinsons Dis. 2015;2015:586378</RefSource>
+                <PMID Version="1">25722915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2016 Jan;31(1):23-38</RefSource>
+                <PMID Version="1">26715466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parkinsonism Relat Disord. 2007;13 Suppl 3:S478-87</RefSource>
+                <PMID Version="1">18267287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Public Health Rep. 1985 Mar-Apr;100(2):126-31</RefSource>
+                <PMID Version="1">3920711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2014 Jul 29;83(5):413-25</RefSource>
+                <PMID Version="1">24991037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Neurol. 2013 Jul;12(7):716-26</RefSource>
+                <PMID Version="1">23769598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2015 Oct;30(12):1657-63</RefSource>
+                <PMID Version="1">26148003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Strength Cond Res. 2017 Aug;31(8):2270-2277</RefSource>
+                <PMID Version="1">27787472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014 Jul 21;9(7):e102942</RefSource>
+                <PMID Version="1">25047456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Sci. 2016 Apr 15;363:5-15</RefSource>
+                <PMID Version="1">27000212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cochrane Database Syst Rev. 2010 Jan 20;(1):CD007830</RefSource>
+                <PMID Version="1">20091652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2011 Jul 19;77(3):288-94</RefSource>
+                <PMID Version="1">21768599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Neuropharmacol. 1988 Dec;11(6):512-9</RefSource>
+                <PMID Version="1">3233589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parkinsonism Relat Disord. 2017 Aug;41:3-13</RefSource>
+                <PMID Version="1">28602515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2015 Jun 29;10(6):e0131778</RefSource>
+                <PMID Version="1">26121579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mot Behav. 2013;45(6):519-29</RefSource>
+                <PMID Version="1">24116748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Sport Med. 2006 Sep;16(5):422-5</RefSource>
+                <PMID Version="1">17016120</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2007 Mar 15;22(4):451-60; quiz 600</RefSource>
+                <PMID Version="1">17133526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Geriatr Gerontol Int. 2014 Apr;14(2):259-66</RefSource>
+                <PMID Version="1">23647635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Psychol. 2015 Jan 28;5:1478</RefSource>
+                <PMID Version="1">25674066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2008 Jan;9(1):58-65</RefSource>
+                <PMID Version="1">18094706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 2006 Dec;77(12):1318-22</RefSource>
+                <PMID Version="1">16926235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2005 Feb 22;64(4):664-9</RefSource>
+                <PMID Version="1">15728289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2008 Jan;23(1):69-74</RefSource>
+                <PMID Version="1">17960818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Cogn. 2009 Mar;69(2):435-41</RefSource>
+                <PMID Version="1">19006643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Med. 2006 Mar;54(2):67-75</RefSource>
+                <PMID Version="1">16472476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 2013 Jun;84(6):674-80</RefSource>
+                <PMID Version="1">22942216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ Open. 2016 Jan 07;6(1):e008756</RefSource>
+                <PMID Version="1">26743698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ther Adv Neurol Disord. 2010 Jan;3(1):53-67</RefSource>
+                <PMID Version="1">21180636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2016 Oct;31(10):1444-1454</RefSource>
+                <PMID Version="1">27477046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eura Medicophys. 2006 Sep;42(3):231-8</RefSource>
+                <PMID Version="1">17039221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Neurosci. 2015;125(8):578-84</RefSource>
+                <PMID Version="1">25233147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Parkinsons Dis. 2016 Oct 19;6(4):685-698</RefSource>
+                <PMID Version="1">27567884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Med Dir Assoc. 2013 Apr;14(4):236-41</RefSource>
+                <PMID Version="1">23318666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Mov Disord. 2015 Apr 02;2:11</RefSource>
+                <PMID Version="1">26788347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurol. 2011 Jul 12;7(9):528-34</RefSource>
+                <PMID Version="1">21750523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Phys Rehabil Med. 2009 Jun;45(2):215-29</RefSource>
+                <PMID Version="1">19532109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Phys Med Rehabil. 2001 Apr;82(4):509-15</RefSource>
+                <PMID Version="1">11295012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Phys Med Rehabil. 2017 Nov;98(11):2134-2141</RefSource>
+                <PMID Version="1">28705551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Aging Neurosci. 2017 Nov 03;9:358</RefSource>
+                <PMID Version="1">29163139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Evid Based Complement Alternat Med. 2015;2015:593263</RefSource>
+                <PMID Version="1">25649281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Yoga Phys Ther. 2013 Aug 20;3:null</RefSource>
+                <PMID Version="1">24278789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Sci. 2015;353(1-2):9-19</RefSource>
+                <PMID Version="1">25936252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Neurol Scand. 2011 Jan;123(1):13-9</RefSource>
+                <PMID Version="1">20199518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Phys Med Rehabil. 2015 Jan;96(1):141-53</RefSource>
+                <PMID Version="1">25223491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2010 Jul 27;75(4):341-8</RefSource>
+                <PMID Version="1">20660864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neural Transm (Vienna). 2009 Mar;116(3):307-18</RefSource>
+                <PMID Version="1">18982238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CMAJ. 2006 Mar 14;174(6):801-9</RefSource>
+                <PMID Version="1">16534088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Phys Rehabil Med. 2014 Mar;57(2):79-104</RefSource>
+                <PMID Version="1">24582335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gerontol A Biol Sci Med Sci. 2006 Nov;61(11):1166-70</RefSource>
+                <PMID Version="1">17167157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parkinsonism Relat Disord. 2014 Jan;20(1):106-11</RefSource>
+                <PMID Version="1">24209458</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Parkinson's disease</Keyword>
+            <Keyword MajorTopicYN="N">physical activity</Keyword>
+            <Keyword MajorTopicYN="N">review</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30532351</ArticleId>
+            <ArticleId IdType="doi">10.4103/aian.AIAN_169_18</ArticleId>
+            <ArticleId IdType="pii">AIAN-21-242</ArticleId>
+            <ArticleId IdType="pmc">PMC6238554</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30529569</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-0180</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>90</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Oct</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the mechanical behavior of biomedical materials</Title>
+                <ISOAbbreviation>J Mech Behav Biomed Mater</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Forces and moments in cervical spinal column segments in frontal impacts using finite element modeling and human cadaver tests.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>681-688</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1751-6161(18)31015-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jmbbm.2018.09.043</ELocationID>
+            <Abstract>
+                <AbstractText>Experiments have been conducted using isolated tissues of the spine such as ligaments, functional units, and subaxial cervical spine columns. Forces and or moments under external loading can be obtained at the ends of these isolated/segmented preparations; however, these models require fixations at the end(s). To understand the response of the entire cervical spine without the artificial boundary/end conditions, it is necessary to use the whole body human cadaver in the experimental model. This model can be used to obtain the overall kinematics of the head and neck. The forces and moments at each vertebral level of the cervical column segments cannot be directly obtained using the kinematic and mass property data. The objective of this study was to determine such local loads under simulated frontal impact loading using a validated head-neck finite element model and experiments from whole body human cadaver tests, at velocities ranging from 3.9 to 16 m/s. The specimens were prepared with a nine linear accelerometer package on the head, and a triaxial accelerometer with a triaxial angular rate sensor on T1, and a set of three non-collinear retroreflective targets were secured to the T1 using the accelerometer mount. A similar array of targets was attached to the skull. Head accelerations were computed at the center of gravity of the head using specimen-specific physical properties. Upper and lower neck forces were computed using center of gravity acceleration data. This dataset was used to verify a previously validated finite element model of the head-neck model by inputting the mean T1 accelerations at different velocities. The model was parametrically exercised from 4 to 16 m/s in increments of 3 m/s to determine the forces and moments in the local anatomical system at all spinal levels. Results indicated that, with increasing velocities, the axial loading was found to be level-invariant, while the shear force and moment responses depended on the level. The nonuniform developments of the segmental forces and moments across different spinal levels suggest a shift in instantaneous axis of rotations between the across different spinal levels. Such differential changes between contiguous levels may lead to local spinal instability, resulting in long-term effects such as accelerated degeneration and spondylosis. The study underscored the need to conduct additional research to include effects of posture and geometrical variations that exist between males and females for a more comprehensive understanding of the local load-sharing in frontal impacts.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meyer</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering, University of Strasburg, Strasburg-ICUBE, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Humm</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cemter for NeuroTrauma Research, Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, WI, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Purushothaman</LastName>
+                    <ForeName>Yuvaraj</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cemter for NeuroTrauma Research, Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, WI, United States; School of Mechanical and Building Science, VIT University, Chennai Campus, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Willinger</LastName>
+                    <ForeName>Rémy</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering, University of Strasburg, Strasburg-ICUBE, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pintar</LastName>
+                    <ForeName>Frank A</ForeName>
+                    <Initials>FA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cemter for NeuroTrauma Research, Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, WI, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoganandan</LastName>
+                    <ForeName>Narayan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cemter for NeuroTrauma Research, Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, WI, United States; Department of Orthopaedic Surgery,Medical College of Wisconsin, Milwaukee, WI, United States. Electronic address: yoga@mcw.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Mech Behav Biomed Mater</MedlineTA>
+            <NlmUniqueID>101322406</NlmUniqueID>
+            <ISSNLinking>1878-0180</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomechanics</Keyword>
+            <Keyword MajorTopicYN="N">Frontal impacts</Keyword>
+            <Keyword MajorTopicYN="N">Human cervical spine</Keyword>
+            <Keyword MajorTopicYN="N">Local load-sharing</Keyword>
+            <Keyword MajorTopicYN="N">Neck loads</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30529569</ArticleId>
+            <ArticleId IdType="pii">S1751-6161(18)31015-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jmbbm.2018.09.043</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30527963</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-7214</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry</Title>
+                <ISOAbbreviation>Am J Geriatr Psychiatry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mind-Body Interventions in Late-Life Mental Illnesses and Cognitive Disorders: A Narrative Review.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1064-7481(18)30541-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jagp.2018.10.020</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Current pharmacological treatments and psychotherapeutic approaches often have adverse effects or ineffective in late-life cognitive and mental illnesses. Mind-body interventions offer a holistic approach and are of interest because of potential patient acceptability and scalability.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To synthesize current evidence on mind-body interventions in treating or preventing mental illnesses and cognitive disorders in older adults.</AbstractText>
+                <AbstractText Label="SEARCH STRATEGY" NlmCategory="METHODS">A search was conducted using Ovid MEDLINE, EMBASE, and PsycINFO articles published from 1993 to 2017.</AbstractText>
+                <AbstractText Label="SELECTION CRITERIA" NlmCategory="METHODS">1) Randomized controlled trials, 2) involving older adults (&gt;60 years old), 3) suffering from mental illness or cognitive decline, 4) comparing mind-body interventions with a control group. Mind-body interventions included: imagery, meditation &amp; mindfulness, prayer, autogenic training, tai chi &amp; variants, and yoga. Control group included: health education, other non-pharmacological interventions, treatment as usual, or no treatment at all.</AbstractText>
+                <AbstractText Label="DATA COLLECTION AND ANALYSIS" NlmCategory="METHODS">Data included number of patients, age, psychiatric diagnoses, type of intervention, frequency and duration, control conditions, outcomes measures and treatment results.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">3916 articles were reviewed and ten met inclusion criteria. Six were on Tai Chi and four assessed meditation-based therapies. Clinically significant improvement in depressive and anxiety symptoms were reported, as well as improvement in some domains of cognition and reduced risk of cognitive deterioration.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">There is increasing evidence that mind-body interventions are may potentially be useful in the treatment or prevention of geriatric mental illnesses and cognitive disorders. There are important methodological limitations of the current literaturesuch as small sample sizes, heterogeneous study populations, and varying clinical outcomes.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 American Association for Geriatric Psychiatry. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vasudev</LastName>
+                    <ForeName>Akshya</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Geriatric Psychiatry (AV, KK), Department of Psychiatry, Western University, London, ON.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torres-Platas</LastName>
+                    <ForeName>Susana G</ForeName>
+                    <Initials>SG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Geri-PARTy Research Group (SGT, AP, MS, KJL, SR), Department of Psychiatry, Jewish General Hospital, Montréal. Electronic address: susana.torresplatas@mail.mcgill.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerfoot</LastName>
+                    <ForeName>Karin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Geriatric Psychiatry (AV, KK), Department of Psychiatry, Western University, London, ON.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Potes</LastName>
+                    <ForeName>Angela</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Geri-PARTy Research Group (SGT, AP, MS, KJL, SR), Department of Psychiatry, Jewish General Hospital, Montréal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Therriault</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Douglas Mental Health University Institute (JT, AG, VN, SR), Montréal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gifuni</LastName>
+                    <ForeName>Anthony</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Douglas Mental Health University Institute (JT, AG, VN, SR), Montréal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Segal</LastName>
+                    <ForeName>Marilyn</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Geri-PARTy Research Group (SGT, AP, MS, KJL, SR), Department of Psychiatry, Jewish General Hospital, Montréal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Looper</LastName>
+                    <ForeName>Karl J</ForeName>
+                    <Initials>KJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Geri-PARTy Research Group (SGT, AP, MS, KJL, SR), Department of Psychiatry, Jewish General Hospital, Montréal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nair</LastName>
+                    <ForeName>Vasavan</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Douglas Mental Health University Institute (JT, AG, VN, SR), Montréal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lavretsky</LastName>
+                    <ForeName>Helen</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry (HL), University of California, Los Angeles, Los Angeles.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rej</LastName>
+                    <ForeName>Soham</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Geri-PARTy Research Group (SGT, AP, MS, KJL, SR), Department of Psychiatry, Jewish General Hospital, Montréal; the Douglas Mental Health University Institute (JT, AG, VN, SR), Montréal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Am J Geriatr Psychiatry</MedlineTA>
+            <NlmUniqueID>9309609</NlmUniqueID>
+            <ISSNLinking>1064-7481</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30527963</ArticleId>
+            <ArticleId IdType="pii">S1064-7481(18)30541-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jagp.2018.10.020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30503690</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-7541</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Explore (New York, N.Y.)</Title>
+                <ISOAbbreviation>Explore (NY)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Resilient to Pain: A Model of How Yoga May Decrease Interference Among People Experiencing Chronic Pain.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S1550-8307(18)30190-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.explore.2018.11.002</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic musculoskeletal pain is the leading cause of disability globally, yet for the majority of people who experience chronic pain, it does not seriously disable them or interfere with their life. People who experience severe pain yet low disability display a resilient course of pain. Yoga has been shown to decrease disability among people with pain, but it is not known how. Because even the most basic yoga practices possess many of the components thought to be important in fostering resilience, yoga is a promising means of improving resilience and clinical outcomes for people with chronic pain. A validated conceptual model of how the experience of chronic pain is affected by yoga is needed to guide a future research agenda and identify potential targets for chronic pain intervention. Ultimately, an explanatory model could guide the optimization of yoga and other non-pharmacological therapies for the treatment of chronic pain. I present a testable model.</AbstractText>
+                <CopyrightInformation>Copyright © 2018. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Donaldson</LastName>
+                    <ForeName>Melvin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Scientist Training Program, University of Minnesota Medical School, Minneapolis, MN 55414, United States. Electronic address: donax007@umn.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Explore (NY)</MedlineTA>
+            <NlmUniqueID>101233160</NlmUniqueID>
+            <ISSNLinking>1550-8307</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30503690</ArticleId>
+            <ArticleId IdType="pii">S1550-8307(18)30190-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.explore.2018.11.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30513777</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2077-0383</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical medicine</Title>
+                <ISOAbbreviation>J Clin Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of Exercise on the Resting Heart Rate: A Systematic Review and Meta-Analysis of Interventional Studies.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E503</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/jcm7120503</ELocationID>
+            <Abstract>
+                <AbstractText>Resting heart rate (RHR) is positively related with mortality. Regular exercise causes a reduction in RHR. The aim of the systematic review was to assess whether regular exercise or sports have an impact on the RHR in healthy subjects by taking different types of sports into account. A systematic literature research was conducted in six databases for the identification of controlled trials dealing with the effects of exercise or sports on the RHR in healthy subjects was performed. The studies were summarized by meta-analyses. The literature search analyzed 191 studies presenting 215 samples fitting the eligibility criteria. 121 trials examined the effects of endurance training, 43 strength training, 15 combined endurance and strength training, 5 additional school sport programs. 21 yoga, 5 tai chi, 3 qigong, and 2 unspecified types of sports. All types of sports decreased the RHR. However, only endurance training and yoga significantly decreased the RHR in both sexes. The exercise-induced decreases of RHR were positively related with the pre-interventional RHR and negatively with the average age of the participants. From this, we can conclude that exercise-especially endurance training and yoga-decreases RHR. This effect may contribute to a reduction in all-cause mortality due to regular exercise or sports.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reimers</LastName>
+                    <ForeName>Anne Kerstin</ForeName>
+                    <Initials>AK</Initials>
+                    <Identifier Source="ORCID">0000-0003-4053-1378</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Behavioral and Social Sciences, Institute of Human Movement Science and Health, Technical University of Chemnitz, Straße der Nationen 62, D-09111 Chemnitz, Germany. anne.reimers@hsw.tu-chemnitz.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knapp</LastName>
+                    <ForeName>Guido</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics, TU Dortmund University, Vogelpothsweg 87, D-44227 Dortmund, Germany. guido.knapp@tu-dortmund.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reimers</LastName>
+                    <ForeName>Carl-Detlev</ForeName>
+                    <Initials>CD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Paracelsus-Klinik Bremen, In der Vahr 65, D-28329 Bremen, Germany. c.d.reimers@outlook.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>J Clin Med</MedlineTA>
+            <NlmUniqueID>101606588</NlmUniqueID>
+            <ISSNLinking>2077-0383</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PRISMA</Keyword>
+            <Keyword MajorTopicYN="N">cardiovascular health</Keyword>
+            <Keyword MajorTopicYN="N">physical activity</Keyword>
+            <Keyword MajorTopicYN="N">sports</Keyword>
+            <Keyword MajorTopicYN="N">trail</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30513777</ArticleId>
+            <ArticleId IdType="pii">jcm7120503</ArticleId>
+            <ArticleId IdType="doi">10.3390/jcm7120503</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30509109</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0028-2685</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Oct</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neoplasma</Title>
+                <ISOAbbreviation>Neoplasma</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cardiovagal regulation and transcutaneous pO2 in breast cancer patients - a pilot study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4149/neo_2018_180720N509</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">180720N509</ELocationID>
+            <Abstract>
+                <AbstractText>Vagal activity of patients with metastatic or recurrent breast cancer can predict their survival and can be altered by behavioral, pharmacological, and surgical interventions. Tumor oxygenation is important in defining the cellular metabolic microenvironment of human malignancies, O2-depleted areas coincide with nutrient and energy deprivation and with a hostile metabolic microenvironment. In our work we simultaneously measured two oxygen-sensitive parameters in breast cancer patients, blood oxygen saturation (SpO2) and transcutaneous O2 partial pressure (tcpO2) in breast tissue. Concurrently, 5-minute beat-to-beat heart rate recording was carried out in order to get heart rate variability (HRV) data from time-domain analyses, frequency-domain analyses, and nonlinear methods - entropy, symbolic dynamics. We compared these parameters in patients newly diagnosed with breast cancer, in patients after therapy and healthy controls. We found lower tcpO2 in patients with presence of malignant tumor compared to those after treatment and/or without presence of malignancy. We detected also lower 2UV% and entropy in non-linear HRV analysis in all breast cancer patients and these parameters associated with parasympathetic activity did not return to the values comparable with healthy individuals after anticancer therapy, contrary to tcpO2. Our findings show that breast tissue tcpO2 can recover after the anticancer treatment, but the complexity of the heart rate control and cardiovagal regulation remain impaired. This supports the idea that cancer patients and survivors might benefit from non-pharmacological interventions aimed at enhancing of vagal activity, e.g. HRV biofeedback or Yoga.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hunakova</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Research Institute, Biomedical Research Center, Slovak Academy of Sciences, Bratislava, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zvarik</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Physics and Biophysics, Faculty of Mathematics, Physics and Computer Science, Comenius University, Bratislava, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Majerova</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nuclear Physics and Biophysics, Faculty of Mathematics, Physics and Computer Science, Comenius University, Bratislava, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mestanik</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Center Martin, Jessenius Faculty of Medicine in Martin, Comenius University, Martin, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Jessenius Faculty of Medicine in Martin, Comenius University, Martin, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bella</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Genetics and Department of Mammology, St. Elisabeth Cancer Institute, Bratislava, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tonhajzerova</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biomedical Center Martin, Jessenius Faculty of Medicine in Martin, Comenius University, Martin, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, Jessenius Faculty of Medicine in Martin, Comenius University, Martin, Slovakia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Slovakia</Country>
+            <MedlineTA>Neoplasma</MedlineTA>
+            <NlmUniqueID>0377266</NlmUniqueID>
+            <ISSNLinking>0028-2685</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30509109</ArticleId>
+            <ArticleId IdType="doi">10.4149/neo_2018_180720N509</ArticleId>
+            <ArticleId IdType="pii">180720N509</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">30498190</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1941-5923</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of case reports</Title>
+                <ISOAbbreviation>Am J Case Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hemangioma of a Male Breast: Case Report and Review of the Literature.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1425-1429</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.12659/AJCR.911842</ELocationID>
+            <Abstract>
+                <AbstractText>BACKGROUND Male breast hemangioma is a rare benign neoplasm that is usually excised for definitive diagnosis. CASE REPORT In our case report, we present a male octogenarian with multiple comorbidities who presented with a large palpable mass in his right breast. The diagnostic imaging studies were suggestive of a benign tumor, with a BI-RADS (Breast Imaging Reporting and Data System) score of 3. Subsequent core needle biopsies were diagnostic of benign hemangioma. The patient was managed with observation due to his comorbidities. Benign vascular tumors in the male breast are exceptionally rare, and in our review of the literature we found only 14 previously published cases. Historically, fine needle aspiration has been found to be unreliable in making a definitive diagnosis and surgical excision has been the standard treatment. CONCLUSIONS Recent studies and our case report indicate that core needle biopsy may be a reliable diagnostic tool and observation is a possible option for hemangiomas in male patients who cannot undergo surgery.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yoga</LastName>
+                    <ForeName>Arthy</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Breast Surgery, Texas Oncology, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Breast Surgery, Department of Surgery, Bethesda Health System, Boynton Beach, FL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lyapichev</LastName>
+                    <ForeName>Kirill A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Miami, Miami, FL, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematopathology, The University of Texas M.D. Anderson Cancer Center, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baek</LastName>
+                    <ForeName>Donghwa</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Miami, Miami, FL, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Genomic Medicine, Methodist Hospital, Houston, TX, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gomez-Fernandez</LastName>
+                    <ForeName>Carmen R</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Laboratory Medicine, University of Miami, Miami, FL, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sylvester Comprehensive Cancer Center, Miami, FL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Case Rep</MedlineTA>
+            <NlmUniqueID>101489566</NlmUniqueID>
+            <ISSNLinking>1941-5923</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30498190</ArticleId>
+            <ArticleId IdType="pii">911842</ArticleId>
+            <ArticleId IdType="doi">10.12659/AJCR.911842</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30489439</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-751X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cardiopulmonary rehabilitation and prevention</Title>
+                <ISOAbbreviation>J Cardiopulm Rehabil Prev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of Yoga in Cardiac Disease and Rehabilitation.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/HCR.0000000000000372</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Cardiovascular disease continues to be the leading cause of morbidity and mortality around the world. Yoga, a combination of physical postures (asana), breathing exercises (pranayama), and meditation (dhyana), has gained increasing recognition as a form of mind-body exercise. In this narrative review, we intended to review the emerging evidence assessing the physiologic and clinical effects of yoga on the cardiovascular system and the potential role of yoga as a component of comprehensive cardiac rehabilitation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We searched PubMed, Google Scholar, Embase, and Cochrane databases for literature related to cardiovascular effects of yoga from inception up until 2017.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Yoga has been shown to have favorable effects on systemic inflammation, stress, the cardiac autonomic nervous system, and traditional and emerging cardiovascular risk factors.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Yoga has shown promise as a useful lifestyle intervention that can be incorporated into cardiovascular disease management algorithms. Although many investigators have reported the clinical benefits of yoga in reducing cardiovascular events, morbidity, and mortality, evidence supporting these conclusions is somewhat limited, thereby emphasizing the need for large, well-designed randomized trials that minimize bias and methodological drawbacks.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Guddeti</LastName>
+                    <ForeName>Raviteja R</ForeName>
+                    <Initials>RR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cardiovascular Diseases, Creighton University School of Medicine, Omaha, Nebraska.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dang</LastName>
+                    <ForeName>Geetanjali</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Mark A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alla</LastName>
+                    <ForeName>Venkata Mahesh</ForeName>
+                    <Initials>VM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Cardiopulm Rehabil Prev</MedlineTA>
+            <NlmUniqueID>101291247</NlmUniqueID>
+            <ISSNLinking>1932-7501</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30489439</ArticleId>
+            <ArticleId IdType="doi">10.1097/HCR.0000000000000372</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30485713</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2162-3279</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Brain and behavior</Title>
+                <ISOAbbreviation>Brain Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Short-term Sahaja Yoga meditation training modulates brain structure and spontaneous activity in the executive control network.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e01159</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/brb3.1159</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">While cross-sectional studies have shown neural changes in long-term meditators, they might be confounded by self-selection and potential baseline differences between meditators and non meditators. Prospective longitudinal studies of the effects of meditation in naïve subjects are more conclusive with respect to causal inferences, but related evidence is so far limited.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Here, we assessed the effects of a 4-week Sahaja Yoga meditation training on gray matter density and spontaneous resting-state brain activity in a group of 12 meditation-naïve healthy adults.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared with 30 control subjects, the participants to meditation training showed increased gray matter density and changes in the coherence of intrinsic brain activity in two adjacent regions of the right inferior frontal gyrus encompassing the anterior component of the executive control network. Both these measures correlated with self-reported well-being scores in the meditation group.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The significant impact of a brief meditation training on brain regions associated with attention, self-control, and self-awareness may reflect the engagement of cognitive control skills in searching for a state of mental silence, a distinctive feature of Sahaja Yoga meditation. The manifold implications of these findings involve both managerial and rehabilitative settings concerned with well-being and emotional state in normal and pathological conditions.</AbstractText>
+                <CopyrightInformation>© 2018 The Authors. Brain and Behavior published by Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dodich</LastName>
+                    <ForeName>Alessandra</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9140-0699</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Neuroscience, San Raffaele Scientific Institute, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>NIMTlab, University of Geneva, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zollo</LastName>
+                    <ForeName>Maurizio</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Invernizzi Center for Research in Innovation, Organization and Strategy, Bocconi University, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crespi</LastName>
+                    <ForeName>Chiara</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Neuroscience, San Raffaele Scientific Institute, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>NeTS Center, Scuola Universitaria Superiore IUSS, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cappa</LastName>
+                    <ForeName>Stefano F</ForeName>
+                    <Initials>SF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NeTS Center, Scuola Universitaria Superiore IUSS, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>IRCCS San Giovanni di Dio Fatebenefratelli, Brescia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laureiro Martinez</LastName>
+                    <ForeName>Daniella</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MTEC, ETH Zurich, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Falini</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Neuroscience, San Raffaele Scientific Institute, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Neuroradiology Unit, San Raffaele Scientific Institute, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canessa</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NeTS Center, Scuola Universitaria Superiore IUSS, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cognitive Neuroscience Laboratory, ICS Maugeri, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Cariplo Foundation Grant &quot;Formazione Universitaria d'Eccellenza: applicazioni neuro-scientifiche per la formazione nella gestione dell'innovazione e della sostenibilità</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Brain Behav</MedlineTA>
+            <NlmUniqueID>101570837</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Sahaja Yoga meditation</Keyword>
+            <Keyword MajorTopicYN="N">fronto-parietal executive control network</Keyword>
+            <Keyword MajorTopicYN="N">neural plasticity</Keyword>
+            <Keyword MajorTopicYN="N">resting-state fMRI</Keyword>
+            <Keyword MajorTopicYN="N">voxel-based morphometry</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30485713</ArticleId>
+            <ArticleId IdType="doi">10.1002/brb3.1159</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">30482819</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-4265</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical humanities</Title>
+                <ISOAbbreviation>Med Humanit</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Walking up hills, through history and in-between disciplines: MHH and Health Sciences Education at the tip of Africa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>270-280</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1136/medhum-2018-011494</ELocationID>
+            <Abstract>
+                <AbstractText>Celebration, frustration, contestation and imagination all manifest themselves when examining the evolution of the field of Medical and Health Humanities (MHH) at the University of Cape Town (UCT). That this field has been growing at the same time as access to, inclusion in, and social justice issues linked to higher education have come under the spotlight has the potential to shape how we think and plan for the future of the field. Doing this will require treks up hills, journeys through difficult histories and dynamic dances in-between disciplines.This article examines MHH at UCT broadly, referring to projects and programmes that are underway primarily in the humanities and health sciences faculties. From this overview, the article specifically examines the curricula changes introduced in the Faculty of Health Sciences inspired by MHH and the author's interest in historical consciousness. It describes current points of intervention in physiotherapy and MBChB undergraduate curricula; and through short-term special study modules that have allowed those interested in MHH to explore relationships between health and healing and art, music, writing, yoga, PhotoVoice, drama, drawing and complex histories.It discusses some of the challenges of introducing humanities teaching into health sciences curricula; and some of the tensions that result from the meeting of divergent epistemologies and pedagogies. The article considers if, and how, MHH might engage with social (in)justice, and inclusions and exclusions and potentially offer a balm to soothe the bruising effects of oppressive histories and a hegemonically hierarchical present.</AbstractText>
+                <CopyrightInformation>© Author(s) (or their employer(s)) 2018. No commercial re-use. See rights and permissions. Published by BMJ.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tsampiras</LastName>
+                    <ForeName>Carla</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3883-5241</Identifier>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Humanit</MedlineTA>
+            <NlmUniqueID>100959585</NlmUniqueID>
+            <ISSNLinking>1468-215X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">health care education</Keyword>
+            <Keyword MajorTopicYN="N">history</Keyword>
+            <Keyword MajorTopicYN="N">medical education</Keyword>
+            <Keyword MajorTopicYN="N">medical humanities</Keyword>
+            <Keyword MajorTopicYN="N">politics</Keyword>
+        </KeywordList>
+        <CoiStatement>Competing interests: None declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30482819</ArticleId>
+            <ArticleId IdType="pii">medhum-2018-011494</ArticleId>
+            <ArticleId IdType="doi">10.1136/medhum-2018-011494</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
